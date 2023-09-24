@@ -69,7 +69,7 @@ where `μ` is the mean of the distribution and `σ` its standard deviation.
 ## Usage
 
 ```javascript
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@v0.1.0-esm/index.mjs';
 ```
 
 #### skewness( k )
@@ -119,7 +119,7 @@ var v = skewness( -1.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@v0.1.0-esm/index.mjs';
 
 var k;
 var v;
