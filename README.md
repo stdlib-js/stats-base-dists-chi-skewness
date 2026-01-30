@@ -69,6 +69,11 @@ where `μ` is the mean of the distribution and `σ` its standard deviation.
 ## Usage
 
 ```javascript
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-chi-skewness/tags). For example,
+
+```javascript
 import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@v0.3.0-esm/index.mjs';
 ```
 
@@ -119,7 +124,7 @@ var v = skewness( -1.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@v0.3.0-esm/index.mjs';
+import skewness from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-chi-skewness@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
