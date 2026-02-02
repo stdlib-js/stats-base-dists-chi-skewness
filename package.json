@@ -43,7 +43,7 @@
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
     "@stdlib/math-base-napi-unary": "^0.2.5",
     "@stdlib/math-base-special-sqrt": "^0.2.2",
-    "@stdlib/stats-base-dists-chi-mean": "^0.2.2",
+    "@stdlib/stats-base-dists-chi-mean": "^0.3.0",
     "@stdlib/stats-base-dists-chi-variance": "^0.3.0",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
