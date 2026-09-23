@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-09-23)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`fed47c5`](https://github.com/stdlib-js/stdlib/commit/fed47c5a6a1ab89ce70e546957796748b761e6dd) - **chore:** clean-up [(#15426)](https://github.com/stdlib-js/stdlib/pull/15426) _(by Philipp Burckhardt)_
 -   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 -   [`81fd782`](https://github.com/stdlib-js/stdlib/commit/81fd7822d544bff51fccb618844e07f7edf31e8b) - **bench:** use string interpolation in `stats/base/dists/chi` [(#10171)](https://github.com/stdlib-js/stdlib/pull/10171) _(by Om-A-osc)_
